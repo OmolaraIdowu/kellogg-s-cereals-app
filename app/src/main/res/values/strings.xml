@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Kellogg\'s Cereals</string>
+    <string name="corn_flakes">CORNFLAKES</string>
+    <string name="choco_malt">CHOCOMALT</string>
+    <string name="crunchy_nut">CRUNCHY NUT</string>
+    <string name="froot_loops">FROOT LOOPS</string>
+    <string name="honey_loops">HONEY LOOPS</string>
+    <string name="oats">OATS</string>
+    <string name="rice_krispies">RICE KRISPIES</string>
+
+    <string name="corn_flakes1">Crispy, golden flakes of sweetened corn. \n It\'s a great choice for a breakfast cereal. It reduces heart diseases and maintain lungs health.</string>
+    <string name="choco_malt1">Breakfast time is always fun when you know you\'ll be eating your favorite cereal. Crunchy and Crispy treat. Contains essential vitamins and minerals.</string>
+    <string name="crunchy_nut1">Breakfast cereal made with flakes of corn, honey, three types of sugar and chopped peanuts. It brings you an irresistible selection of duly deciding choices.</string>
+    <string name="froot_loops1">Packed with delicious fruity taste, fruity aroma and bright colors made with wholegrain and sweetened. It is a part of a complete breakfast.</string>
+    <string name="honey_loops1">Made with wholegrain cereal and with honey to give it its taste.</string>
+    <string name="oats1">A traditional breakfast food made from processed cereal grains. High fiber, promote health and blends well with other foods. </string>
+    <string name="rice_krispies1">Made with crispy oven-toated puffed rice cereal with the yummy taste of marshmallow.</string>
+    <string name="kellogg_s_logo">Kellogg\'s Logo</string>
+    <string name="icon">icon</string>
+    <string name="tap_me">TAP ME!</string>
+</resources>
